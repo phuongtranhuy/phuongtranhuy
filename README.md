@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @phuongtranhuy
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning microsoft azure
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me email: thd.phuong@gmail.com
 
 <!---
 phuongtranhuy/phuongtranhuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
