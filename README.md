@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @phuongtranhuy
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning microsoft azure
 - 📫 How to reach me email: thd.phuong@gmail.com
 
 <!---
